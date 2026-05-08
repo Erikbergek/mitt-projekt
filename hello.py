@@ -1,3 +1,2 @@
-git add .
-git commit -m "Lade till en rad"
-git push
+print("Hej från mitt första Git-projekt!")
+print("Detta är min andra rad!")
